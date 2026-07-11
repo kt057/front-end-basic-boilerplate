@@ -21,8 +21,8 @@ importers:
         specifier: ^5.0.3
         version: 5.0.3(prettier@3.9.5)(stylelint@17.14.0(typescript@5.9.3))
       swiper:
-        specifier: ^12.1.2
-        version: 12.1.2
+        specifier: ^12.2.0
+        version: 12.2.0
     devDependencies:
       '@biomejs/biome':
         specifier: 2.5.3
@@ -3081,8 +3081,8 @@ packages:
     engines: {node: '>=16'}
     hasBin: true
 
-  swiper@12.1.2:
-    resolution: {integrity: sha512-4gILrI3vXZqoZh71I1PALqukCFgk+gpOwe1tOvz5uE9kHtl2gTDzmYflYCwWvR4LOvCrJi6UEEU+gnuW5BtkgQ==}
+  swiper@12.2.0:
+    resolution: {integrity: sha512-K8uXsBZU6ME97Ia3xbBge8IRCnR1lOmIILzvY/jGVic7dSTQ530s3uO8RvXbPUtkkXLWIwmZLRPbtDxRWVAFdg==}
     engines: {node: '>= 4.7.0'}
 
   table@6.9.0:
@@ -6465,7 +6465,7 @@ snapshots:
       picocolors: 1.1.1
       sax: 1.5.0
 
-  swiper@12.1.2: {}
+  swiper@12.2.0: {}
 
   table@6.9.0:
     dependencies:
